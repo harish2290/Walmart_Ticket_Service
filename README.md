@@ -1,4 +1,4 @@
-# Walmart_Ticket_Service
+# Walmart Ticket Service Assignment
 
 This ticket service allows user to create multiple holds and reservations for one customer. Also this service will hold any available seat within levels user provided. If available seats are not enough in one level, then hold available seats in next level. There is no limit on number of holding nor on number of seat to hold. This service will return seat hold details like email id, level & number of seats.
 
